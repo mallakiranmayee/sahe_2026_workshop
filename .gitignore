@@ -1,0 +1,10 @@
+Lib/
+Scripts/
+Include/
+share/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+pyvenv.cfg
